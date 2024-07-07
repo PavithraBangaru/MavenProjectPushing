@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.flipkart</groupId>
-    <artifactId>flipkart-app</artifactId>
+    <artifactId>flipkart-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>cart-app</artifactId>
