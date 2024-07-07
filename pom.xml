@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.flipkart</groupId>
     <artifactId>flipkart-application</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RELEASE</version>
   </parent>
   <artifactId>cart-app</artifactId>
 </project>
